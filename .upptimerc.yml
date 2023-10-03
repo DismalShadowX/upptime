@@ -3,13 +3,6 @@ owner: DismalShadowX # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-    icon: https://www.google.com/favicon.ico
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Everything Bagel
     url: http://everythingbagel.me
   - name: Everything Pixel
@@ -22,6 +15,22 @@ sites:
     url: http://social.everythingbagel.me/api/v1/streaming/health
   - name: Elk
     url: http://elk.social.everythingbagel.me
+  - name: Library of Infinite Realms
+    url: http://book.everythingbagel.me
+  - name: Shadow Does Streams
+    url: http://stream.everythingbagel.me
+  - name: Nathan's Ramblings
+    url: http://video.everythingbagel.me
+  - name: Background queues
+    url: https://social.everythingbagel.me/sidekiq
+  - name: S3 (Media Storage)
+    url: https://ams1.vultrobjects.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+    assignees: # Users to assign downtime issues (optional)
+      - DismalShadowX
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
