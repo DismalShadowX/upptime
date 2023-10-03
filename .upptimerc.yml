@@ -12,6 +12,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Everything Bagel
     url: http://everythingbagel.me
+  - name: Everything Pixel
+    url: https://pixel.everythingbagel.me/api/service/health-check
+  - name: Everything Cloud
+    url: http://cloud.everythingbagel.me
+  - name: Everything Video
+    url: http://video.everythingbagel.me
+  - name: Mastodon Streaming API
+    url: http://social.everythingbagel.me/api/v1/streaming/health
+  - name: Elk
+    url: http://elk.social.everythingbagel.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
