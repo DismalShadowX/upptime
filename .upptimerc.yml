@@ -22,6 +22,7 @@ sites:
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
+    icon: https://blog.everythingbagel.me/favicon.ico
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
