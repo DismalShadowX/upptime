@@ -15,6 +15,7 @@ sites:
   - name: Library of Infinite Realms
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
+    description: Testing.
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
@@ -24,7 +25,8 @@ sites:
   - name: Mastodon Streaming API
     url: https://social.everythingbagel.me/api/v1/streaming/health    
   - name: Background queues
-    introMessage: Sidekiq that pulled and pushes posts
+    introTitle: "**Everything Status** is open-source uptime monitor.
+    introMessage: Sidekiq that pulled and pushes posts.
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
