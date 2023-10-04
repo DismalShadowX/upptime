@@ -24,6 +24,7 @@ sites:
   - name: Mastodon Streaming API
     url: https://social.everythingbagel.me/api/v1/streaming/health    
   - name: Background queues
+    introMessage: Sidekiq that pulled and pushes posts
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
