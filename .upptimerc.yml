@@ -15,7 +15,6 @@ sites:
   - name: Library of Infinite Realms
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
-    text:: Testing.
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
@@ -46,7 +45,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
-  theme: dark
+  theme: ocean
   #themeUrl: https://dismalshadowx.github.io/upptime/dark.css
   apiBaseUrl: https://api.github.com
   #baseUrl: /upptime
@@ -70,10 +69,10 @@ i18n:
   footer: Copyright © 2003-2023 Nathan Sparrow. All Rights Reserved. This page is [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/)
   
 workflowSchedule:
-graphs: "0 0 * * *"
-responseTime: "0 23 * * *"
-staticSite: "0 1 * * *"
-summary: "0 0 * * *"
-updateTemplate: "0 0 * * *"
-updates: "0 3 * * *"
-uptime: "*/5 * * * *"
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "0 1 * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "*/5 * * * *"
