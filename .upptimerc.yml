@@ -89,10 +89,6 @@ i18n:
   uptimeYear: "1-year uptime"
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 All systems operational"
-  degradedPerformance: "🟨 Degraded performance"
-  completeOutage: "🟥 Complete outage"
-  partialOutage: "🟧 Partial outage"  
   
 workflowSchedule:
     graphs: "0 0 * * *"
