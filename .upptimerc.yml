@@ -28,6 +28,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
@@ -39,7 +40,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  theme: dark
+  theme: dark, light
   apiBaseUrl: https://api.github.com
   baseUrl: /upptime
   logoUrl: https://cloud.everythingbagel.me/s/cbPdT7iSQD5jCkm #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
