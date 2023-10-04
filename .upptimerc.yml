@@ -12,10 +12,6 @@ sites:
     url: https://cloud.everythingbagel.me
   - name: Everything Video
     url: https://video.everythingbagel.me
-  - name: Mastodon Streaming API
-    url: https://social.everythingbagel.me/api/v1/streaming/health
-  - name: Elk
-    url: https://elk.social.everythingbagel.me
   - name: Library of Infinite Realms
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
@@ -23,6 +19,10 @@ sites:
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
     icon: https://blog.everythingbagel.me/favicon.ico
+  - name: Elk - Alternate Mastodon front-end
+    url: https://elk.social.everythingbagel.me    
+  - name: Mastodon Streaming API
+    url: https://social.everythingbagel.me/api/v1/streaming/health    
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
@@ -35,7 +35,7 @@ sites:
       - 404
     assignees: # Users to assign downtime issues (optional)
       - DismalShadowX
-
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -44,7 +44,7 @@ status-website:
   #themeUrl: https://dismalshadowx.github.io/upptime/dark.css
   apiBaseUrl: https://api.github.com
   #baseUrl: /upptime
-  logoUrl: https://cloud.everythingbagel.me/s/cbPdT7iSQD5jCkm #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cloud.everythingbagel.me/s/5Kd2WTQFSXmFJCg
   name: Everything Status
   introTitle: "**Everything Status** is open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/DismalShadowX/upptime). No server required — just GitHub Actions, Issues, and Pages.
@@ -57,5 +57,27 @@ status-website:
       href: http://everythingbagel.me
     - title: Wiki
       href: http://wiki.everythingbagel.me
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
+
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "admin@everythingbagel.me"
+  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
