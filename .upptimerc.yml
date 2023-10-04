@@ -21,7 +21,7 @@ sites:
   - name: Shadow Does Streams
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
-    url: https://video.everythingbagel.me
+    url: https://blog.everythingbagel.me
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
