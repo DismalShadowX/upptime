@@ -66,7 +66,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: This page is [open source]($REPO)
+  footer: Copyright © 2003-2023 Nathan Sparrow. All Rights Reserved. This page is [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/)
   
 workflowSchedule:
 graphs: "0 0 * * *"
