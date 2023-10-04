@@ -4,23 +4,23 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Everything Bagel
-    url: http://everythingbagel.me
+    url: https://everythingbagel.me
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
-    url: http://cloud.everythingbagel.me
+    url: https://cloud.everythingbagel.me
   - name: Everything Video
-    url: http://video.everythingbagel.me
+    url: https://video.everythingbagel.me
   - name: Mastodon Streaming API
-    url: http://social.everythingbagel.me/api/v1/streaming/health
+    url: https://social.everythingbagel.me/api/v1/streaming/health
   - name: Elk
-    url: http://elk.social.everythingbagel.me
+    url: https://elk.social.everythingbagel.me
   - name: Library of Infinite Realms
-    url: http://book.everythingbagel.me
+    url: https://book.everythingbagel.me
   - name: Shadow Does Streams
-    url: http://stream.everythingbagel.me
+    url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
-    url: http://video.everythingbagel.me
+    url: https://video.everythingbagel.me
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
   - name: S3 (Media Storage)
@@ -37,7 +37,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.everythingelbagel.me
+  cname: https://status.everythingelbagel.me
   theme: dark
   #themeUrl: https://dismalshadowx.github.io/upptime/dark.css
   apiBaseUrl: https://api.github.com
