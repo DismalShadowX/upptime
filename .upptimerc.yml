@@ -15,7 +15,7 @@ sites:
   - name: Library of Infinite Realms
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
-    block: Testing.
+    text:: Testing.
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
