@@ -45,8 +45,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
-  #theme: ocean
-  themeUrl: https://dismalshadowx.github.io/upptime/dark.css
+  theme: ocean
+  #themeUrl: https://status.everythingbagel.me/dark.css
   apiBaseUrl: https://api.github.com
   #baseUrl: /upptime
   logoUrl: https://cloud.everythingbagel.me/s/5Kd2WTQFSXmFJCg
@@ -67,7 +67,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: Copyright © 2003-2023 Nathan Sparrow. All Rights Reserved. This page is [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/)
-  url: "URL"
+  url: "https://status.everythingbagel.me"
   status: "Status"
   history: "History"
   responseTime: "Response Time"
