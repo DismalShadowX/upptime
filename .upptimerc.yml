@@ -27,6 +27,7 @@ sites:
     url: https://ams1.vultrobjects.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    
     expectedStatusCodes:
       - 200
       - 201
@@ -50,6 +51,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+    - title: Home
+      href: http://everythingbagel.me
+    - title: Wiki
+      href: http://wiki.everythingbagel.me
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
