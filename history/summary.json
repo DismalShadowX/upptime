@@ -4,19 +4,19 @@
     "url": "https://everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/everythingbagel.me.ico",
     "slug": "everything-bagel",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 295,
     "timeWeek": 191,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pixel.everythingbagel.me/api/service/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/pixel.everythingbagel.me.ico",
     "slug": "everything-pixel",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 216,
     "timeDay": 209,
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://cloud.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.everythingbagel.me.ico",
     "slug": "everything-cloud",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 826,
     "timeDay": 816,
     "timeWeek": 826,
     "timeMonth": 826,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://video.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/video.everythingbagel.me.ico",
     "slug": "everything-video",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 220,
     "timeDay": 179,
     "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.everythingbagel.me.ico",
     "slug": "library-of-infinite-realms",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.55%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 272,
     "timeDay": 197,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 17
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://stream.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/stream.everythingbagel.me.ico",
     "slug": "shadow-does-streams",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 415,
     "timeDay": 378,
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://blog.everythingbagel.me",
     "icon": "https://blog.everythingbagel.me/favicon.ico",
     "slug": "nathan-s-ramblings",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 248,
     "timeDay": 461,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://elk.social.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/elk.social.everythingbagel.me.ico",
     "slug": "elk-alternate-mastodon-front-end",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 222,
     "timeDay": 226,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://social.everythingbagel.me/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/social.everythingbagel.me.ico",
     "slug": "mastodon-streaming-api",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 307,
     "timeDay": 178,
     "timeWeek": 307,
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://social.everythingbagel.me/sidekiq",
     "icon": "https://icons.duckduckgo.com/ip3/social.everythingbagel.me.ico",
     "slug": "background-queues",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 118,
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-10-06": 9
+      "2023-10-06": 0
     }
   },
   {
