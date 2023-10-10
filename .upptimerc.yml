@@ -6,7 +6,7 @@ user-agent: DismalShadowX
 sites:
   - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
-  - name: Everything Pixel
+  - name: Everything Pixel <!-- The health check for Everything Pixel. -->
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
     url: https://cloud.everythingbagel.me
@@ -46,9 +46,6 @@ sites:
       graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"  
       
 status-website:
-  metaTags:
-    - name: "description"
-      content: "This is the main website for Everything Bagel."
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
