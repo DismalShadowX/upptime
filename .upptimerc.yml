@@ -6,8 +6,6 @@ user-agent: DismalShadowX
 sites:
   - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
-  - name: Everything Pixel
-    url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
     url: https://cloud.everythingbagel.me
   - name: Everything Video
@@ -19,8 +17,12 @@ sites:
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
     icon: https://blog.everythingbagel.me/favicon.ico
+  - name: Everything Pixel
+    url: https://pixel.everythingbagel.me
+  - name: Pixelfed Health
+    url: https://pixel.everythingbagel.me/api/service/health-check    
   - name: Everything Bagel (Mastodon instance)
-    url: https://social.everythingbagel.me/api/v1/streaming/health      
+    url: https://social.everythingbagel.me     
   - name: Elk - Alternate Mastodon front-end
     url: https://elk.social.everythingbagel.me    
   - name: Mastodon Streaming API
