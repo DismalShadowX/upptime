@@ -6,7 +6,8 @@ user-agent: DismalShadowX
 sites:
   - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
-  - name: Everything Pixel <!-- The health check for Everything Pixel. -->
+  - name: Everything Pixel
+  <!-- The health check for Everything Pixel. -->
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
     url: https://cloud.everythingbagel.me
@@ -31,16 +32,6 @@ sites:
     url: https://wiki.everythingbagel.me   
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
-  - name: Cloud Cats
-    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
-  - name: Tesing 9 Lives
-    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info
-  - name: API endpoint with data
-    method: POST
-    url: https://cloud.everythingbagel.me
-    headers:
-      - "Content-Type: ocs/v2.php/apps/serverinfo/api/v1/info?format=json"
-    body: '{ "password": "hello" }'
 
     maxResponseTime: 5000
     expectedStatusCodes:
@@ -59,11 +50,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
-  theme: ocean
-  #themeUrl: https://status.everythingbagel.me/dark.css
+  #theme: ocean #dark, light, night, ocean
+  themeUrl: https://status.everythingbagel.me/dark.css
   apiBaseUrl: https://api.github.com
   #baseUrl: /upptime
-  logoUrl: https://cloud.everythingbagel.me/s/5Kd2WTQFSXmFJCg
+  logoUrl: https://status.everythingbagel.me/image.jpg
   name: Everything Status
   introTitle: "**Everything Status** is open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/DismalShadowX/upptime). No server required — just GitHub Actions, Issues, and Pages.
