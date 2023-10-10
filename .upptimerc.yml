@@ -53,7 +53,7 @@ status-website:
   cname: status.everythingbagel.me
   robotsText: "User-agent: * \n Disallow: /"
   #theme: night #dark, light, night, ocean
-  themeUrl: https://everythingbagel.me/css/night.css
+  themeUrl: https://everythingbagel.me/css/dark.css
   apiBaseUrl: https://api.github.com
   #baseUrl: /upptime
   logoUrl: https://everythingbagel.me/images/uptime.png
