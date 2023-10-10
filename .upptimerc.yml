@@ -85,8 +85,8 @@ i18n:
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
   siteDescriptions:
-    - key: "Home Web (Everything Bagel)"
-      value: "This is the main website for Everything Bagel."
+     - key: "Home Web (Everything Bagel)"
+       value: "This is the main website for Everything Bagel."
     "Everything Cloud": "The cloud service for Everything Bagel."
     "Everything Video": "Video service for Everything Bagel."
     "Library of Infinite Realms": "The library website for Everything Bagel."
