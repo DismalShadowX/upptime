@@ -46,6 +46,9 @@ sites:
       graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"  
       
 status-website:
+  metaTags:
+    - name: "description"
+      content: "This is the main website for Everything Bagel."
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
@@ -84,20 +87,6 @@ i18n:
   uptimeYear: "1-year uptime"
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
-  siteDescriptions:
-     - key: "Home Web (Everything Bagel)"
-       value: "This is the main website for Everything Bagel."
-    "Everything Cloud": "The cloud service for Everything Bagel."
-    "Everything Video": "Video service for Everything Bagel."
-    "Library of Infinite Realms": "The library website for Everything Bagel."
-    "Shadow Does Streams": "Streaming service for Everything Bagel."
-    "Nathan's Ramblings": "Nathan's blog hosted on Everything Bagel."
-    "Everything Bagel (Mastodon instance)": "Mastodon instance on Everything Bagel."
-    "Elk - Alternate Mastodon front-end": "Alternate Mastodon front-end."
-    "Mastodon Streaming API": "Mastodon Streaming API on Everything Bagel."
-    "Background queues": "Background queues for Everything Bagel."
-    "Wiki": "The wiki for Everything Bagel."
-    "S3 (Media Storage)": "Media storage on Vultrobjects."
   
 workflowSchedule:
     graphs: "0 0 * * *"
