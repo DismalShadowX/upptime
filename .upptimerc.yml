@@ -31,6 +31,16 @@ sites:
     url: https://wiki.everythingbagel.me   
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
+  - name: Cloud Cats
+    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+  - name: Tesing 9 Lives
+    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info
+  - name: API endpoint with data
+    method: POST
+    url: https://cloud.everythingbagel.me
+    headers:
+      - "Content-Type: ocs/v2.php/apps/serverinfo/api/v1/info?format=json"
+    body: '{ "password": "hello" }'
 
     maxResponseTime: 5000
     expectedStatusCodes:
