@@ -85,6 +85,20 @@ i18n:
   uptimeYear: "1-year uptime"
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
+  siteDescriptions:
+    "Home Web (Everything Bagel)": "This is the main website for Everything Bagel."
+    "Everything Pixel": "The health check for Everything Pixel."
+    "Everything Cloud": "The cloud service for Everything Bagel."
+    "Everything Video": "Video service for Everything Bagel."
+    "Library of Infinite Realms": "The library website for Everything Bagel."
+    "Shadow Does Streams": "Streaming service for Everything Bagel."
+    "Nathan's Ramblings": "Nathan's blog hosted on Everything Bagel."
+    "Everything Bagel (Mastodon instance)": "Mastodon instance on Everything Bagel."
+    "Elk - Alternate Mastodon front-end": "Alternate Mastodon front-end."
+    "Mastodon Streaming API": "Mastodon Streaming API on Everything Bagel."
+    "Background queues": "Background queues for Everything Bagel."
+    "Wiki": "The wiki for Everything Bagel."
+    "S3 (Media Storage)": "Media storage on Vultrobjects."
   
 workflowSchedule:
     graphs: "0 0 * * *"
