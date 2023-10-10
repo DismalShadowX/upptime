@@ -7,7 +7,6 @@ sites:
   - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
   - name: Everything Pixel
-  <!-- The health check for Everything Pixel. -->
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
     url: https://cloud.everythingbagel.me
