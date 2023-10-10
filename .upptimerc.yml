@@ -6,7 +6,6 @@ user-agent: DismalShadowX
 sites:
   - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
-    description: This is the main website for Everything Bagel.
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
@@ -86,8 +85,8 @@ i18n:
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
   siteDescriptions:
-    "Home Web (Everything Bagel)": "This is the main website for Everything Bagel."
-    "Everything Pixel": "The health check for Everything Pixel."
+    - key: "Home Web (Everything Bagel)"
+      value: "This is the main website for Everything Bagel."
     "Everything Cloud": "The cloud service for Everything Bagel."
     "Everything Video": "Video service for Everything Bagel."
     "Library of Infinite Realms": "The library website for Everything Bagel."
