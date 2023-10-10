@@ -4,8 +4,9 @@ repo: upptime # The name of this repository
 user-agent: DismalShadowX
 
 sites:
-  - name: Everything Bagel
+  - name: Home Web (Everything Bagel)
     url: https://everythingbagel.me
+    description: This is the main website for Everything Bagel.
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Cloud
@@ -19,12 +20,16 @@ sites:
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
     icon: https://blog.everythingbagel.me/favicon.ico
+  - name: Everything Bagel (Mastodon instance)
+    url: https://social.everythingbagel.me/api/v1/streaming/health      
   - name: Elk - Alternate Mastodon front-end
     url: https://elk.social.everythingbagel.me    
   - name: Mastodon Streaming API
     url: https://social.everythingbagel.me/api/v1/streaming/health    
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
+  - name: Wiki
+    url: https://wiki.everythingbagel.me   
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
 
