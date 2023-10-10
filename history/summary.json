@@ -18,26 +18,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Everything Pixel",
-    "url": "https://pixel.everythingbagel.me/api/service/health-check",
-    "icon": "https://icons.duckduckgo.com/ip3/pixel.everythingbagel.me.ico",
-    "slug": "everything-pixel",
-    "status": "up",
-    "uptime": "79.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "79.46%",
-    "uptimeYear": "79.46%",
-    "time": 209,
-    "timeDay": 186,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
-    "dailyMinutesDown": {
-      "2023-10-06": 18
-    }
-  },
-  {
     "name": "Everything Cloud",
     "url": "https://cloud.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.everythingbagel.me.ico",
@@ -139,8 +119,46 @@
     }
   },
   {
+    "name": "Everything Pixel",
+    "url": "https://pixel.everythingbagel.me",
+    "icon": "https://icons.duckduckgo.com/ip3/pixel.everythingbagel.me.ico",
+    "slug": "everything-pixel",
+    "status": "up",
+    "uptime": "80.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "80.04%",
+    "uptimeYear": "80.04%",
+    "time": 209,
+    "timeDay": 186,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
+    "dailyMinutesDown": {
+      "2023-10-06": 18
+    }
+  },
+  {
+    "name": "Pixelfed Health",
+    "url": "https://pixel.everythingbagel.me/api/service/health-check",
+    "icon": "https://icons.duckduckgo.com/ip3/pixel.everythingbagel.me.ico",
+    "slug": "pixelfed-health",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 32,
+    "timeDay": 32,
+    "timeWeek": 32,
+    "timeMonth": 32,
+    "timeYear": 32,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Everything Bagel (Mastodon instance)",
-    "url": "https://social.everythingbagel.me/api/v1/streaming/health",
+    "url": "https://social.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/social.everythingbagel.me.ico",
     "slug": "everything-bagel-mastodon-instance",
     "status": "up",
