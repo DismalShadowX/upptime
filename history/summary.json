@@ -4,19 +4,19 @@
     "url": "https://everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/everythingbagel.me.ico",
     "slug": "home-web-everything-bagel",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 257,
-    "timeDay": 299,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 259,
+    "timeDay": 306,
+    "timeWeek": 259,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 5
     }
   },
   {
