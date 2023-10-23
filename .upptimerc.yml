@@ -23,8 +23,10 @@ sites:
     url: https://pixel.everythingbagel.me/api/service/health-check    
   - name: Everything Bagel (Mastodon instance)
     url: https://social.everythingbagel.me     
-  - name: Elk - Alternate Mastodon front-end
-    url: https://elk.social.everythingbagel.me    
+  - name: Elk - Alternative Mastodon front-end
+    url: https://elk.social.everythingbagel.me
+  - name: Phanpy - Alternative Mastodon front-end
+    url: https://phanpy.social.everythingbagel.me    
   - name: Mastodon Streaming API
     url: https://social.everythingbagel.me/api/v1/streaming/health    
   - name: Background queues
