@@ -1,7 +1,7 @@
 url: https://video.everythingbagel.me
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2023-10-26T23:03:30.885Z
+status: down
+code: 502
+responseTime: 107
+lastUpdated: 2023-10-27T12:38:26.711Z
 startTime: 2023-10-03T23:27:11.756Z
 generator: Upptime <https://github.com/upptime/upptime>
