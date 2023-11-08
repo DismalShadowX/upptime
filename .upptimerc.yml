@@ -17,6 +17,8 @@ sites:
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
     icon: https://blog.everythingbagel.me/favicon.ico
+  - name: Everything Press (Community Blog)
+    url: https://press.everythingbagel.me
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me
   - name: Pixelfed Health
