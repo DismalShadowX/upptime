@@ -16,8 +16,7 @@ sites:
     url: https://stream.everythingbagel.me
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
-    icon: https://blog.everythingbagel.me/favicon.ico
-  - name: Everything Press (Community Blog)
+  - name: Everything Press
     url: https://press.everythingbagel.me
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me
