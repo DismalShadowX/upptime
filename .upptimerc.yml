@@ -10,16 +10,20 @@ sites:
     url: https://cloud.everythingbagel.me
   - name: Everything Video
     url: https://video.everythingbagel.me
+    icon: https://everythingbagel.me/favicon.ico
   - name: Library of Infinite Realms
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
     url: https://stream.everythingbagel.me
+    icon: https://everythingbagel.me/favicon.ico
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
   - name: Everything Press
     url: https://press.everythingbagel.me
+    icon: https://everythingbagel.me/favicon.ico
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me
+    icon: https://everythingbagel.me/favicon.ico
   - name: Pixelfed Health
     url: https://pixel.everythingbagel.me/api/service/health-check    
   - name: Everything Bagel (Mastodon instance)
