@@ -1,7 +1,7 @@
 url: https://social.everythingbagel.me/sidekiq
-status: down
-code: 500
-responseTime: 121
-lastUpdated: 2023-11-14T02:19:42.478Z
+status: up
+code: 200
+responseTime: 1040
+lastUpdated: 2023-11-14T03:17:50.117Z
 startTime: 2023-10-03T23:45:22.981Z
 generator: Upptime <https://github.com/upptime/upptime>
