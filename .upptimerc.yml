@@ -11,7 +11,7 @@ sites:
   - name: Everything Video
     url: https://video.everythingbagel.me
     icon: https://everythingbagel.me/favicon.ico
-  - name: Library of Infinite Realms
+  - name: Library of Infinity
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
     url: https://stream.everythingbagel.me
@@ -37,7 +37,7 @@ sites:
   - name: Background queues
     url: https://social.everythingbagel.me/sidekiq
   - name: Wiki
-    url: https://wiki.everythingbagel.me   
+    url: https://wiki.everythingbagel.me/home
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
 
