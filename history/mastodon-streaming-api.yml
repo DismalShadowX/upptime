@@ -1,7 +1,7 @@
 url: https://social.everythingbagel.me/api/v1/streaming/health
-status: down
-code: 502
-responseTime: 61
-lastUpdated: 2023-11-21T13:54:24.339Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2023-11-21T14:00:16.394Z
 startTime: 2023-10-03T23:27:12.621Z
 generator: Upptime <https://github.com/upptime/upptime>
