@@ -1,7 +1,7 @@
 url: https://press.everythingbagel.me
-status: up
-code: 200
-responseTime: 293
-lastUpdated: 2024-01-27T23:03:54.098Z
+status: down
+code: 502
+responseTime: 111
+lastUpdated: 2024-01-27T23:52:02.264Z
 startTime: 2023-11-10T05:13:58.698Z
 generator: Upptime <https://github.com/upptime/upptime>
