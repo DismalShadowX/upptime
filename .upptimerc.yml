@@ -31,11 +31,11 @@ sites:
   - name: Elk - Alternative Mastodon front-end
     url: https://elk.social.everythingbagel.me
   - name: Phanpy - Alternative Mastodon front-end
-    url: https://phanpy.social.everythingbagel.me    
+    url: https://phanpy.everythingbagel.social    
   - name: Mastodon Streaming API
-    url: https://social.everythingbagel.me/api/v1/streaming/health    
+    url: https://everythingbagel.social/api/v1/streaming/health    
   - name: Background queues
-    url: https://social.everythingbagel.me/sidekiq
+    url: https://everythingbagel.social/sidekiq
   - name: Wiki
     url: https://wiki.everythingbagel.me/home
   - name: S3 (Media Storage)
