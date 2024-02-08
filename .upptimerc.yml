@@ -27,7 +27,7 @@ sites:
   - name: Pixelfed Health
     url: https://pixel.everythingbagel.me/api/service/health-check    
   - name: Everything Bagel (Mastodon instance)
-    url: https://social.everythingbagel.me     
+    url: https://everythingbagel.social     
   - name: Elk - Alternative Mastodon front-end
     url: https://elk.everythingbagel.social
   - name: Phanpy - Alternative Mastodon front-end
