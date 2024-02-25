@@ -10,22 +10,20 @@ sites:
     url: https://cloud.everythingbagel.me
   - name: Everything Video
     url: https://video.everythingbagel.me
-    icon: https://everythingbagel.me/favicon.ico
   - name: Library of Infinity
     url: https://book.everythingbagel.me
   - name: Shadow Does Streams
     url: https://stream.everythingbagel.me
-    icon: https://everythingbagel.me/favicon.ico
   - name: Nathan's Ramblings
     url: https://blog.everythingbagel.me
   - name: Everything Press
     url: https://press.everythingbagel.me
-    icon: https://everythingbagel.me/favicon.ico
   - name: Everything Pixel
     url: https://pixel.everythingbagel.me
-    icon: https://everythingbagel.me/favicon.ico
   - name: Pixelfed Health
-    url: https://pixel.everythingbagel.me/api/service/health-check    
+    url: https://pixel.everythingbagel.me/api/service/health-check
+  - name: Everything Events
+    url: https://events.everythingbagel.me
   - name: Everything Bagel (Mastodon instance)
     url: https://everythingbagel.social     
   - name: Elk - Alternative Mastodon front-end
@@ -40,6 +38,10 @@ sites:
     url: https://wiki.everythingbagel.me/home
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
+  - name: Mastodon Crontab
+    url: https://hc-ping.com/792e0467-b6c9-48f4-8d0a-c08664feac95
+  - name: FediFetcher Crontab
+    url: https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303
 
     maxResponseTime: 5000
     expectedStatusCodes:
