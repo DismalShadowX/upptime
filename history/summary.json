@@ -244,19 +244,19 @@
     "url": "https://events.everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/events.everythingbagel.me.ico",
     "slug": "everything-events",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 196,
-    "timeDay": 213,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 214,
+    "timeDay": 230,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-02-26": 0
+      "2024-02-26": 6
     }
   },
   {
