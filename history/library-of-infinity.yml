@@ -1,7 +1,7 @@
 url: https://book.everythingbagel.me
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2024-04-17T16:02:13.509Z
+status: down
+code: 503
+responseTime: 185
+lastUpdated: 2024-04-17T16:10:49.095Z
 startTime: 2023-11-16T04:24:27.635Z
 generator: Upptime <https://github.com/upptime/upptime>
