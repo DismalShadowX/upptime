@@ -1,7 +1,7 @@
 url: https://pixel.everythingbagel.me/api/service/health-check
-status: up
-code: 200
-responseTime: 51
-lastUpdated: 2024-04-17T16:21:35.500Z
+status: down
+code: 503
+responseTime: 62
+lastUpdated: 2024-04-17T16:31:06.750Z
 startTime: 2023-10-10T09:34:15.304Z
 generator: Upptime <https://github.com/upptime/upptime>
