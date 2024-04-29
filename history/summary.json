@@ -36,11 +36,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafe.everythingbagel.me.ico",
     "slug": "everything-cafe",
     "status": "up",
-    "uptime": "83.14%",
+    "uptime": "83.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.32%",
-    "uptimeMonth": "83.14%",
-    "uptimeYear": "83.14%",
+    "uptimeWeek": "73.50%",
+    "uptimeMonth": "83.15%",
+    "uptimeYear": "83.15%",
     "time": 518,
     "timeDay": 488,
     "timeWeek": 485,
@@ -529,9 +529,9 @@
     "url": "https://ams1.vultrobjects.com",
     "icon": "https://icons.duckduckgo.com/ip3/ams1.vultrobjects.com.ico",
     "slug": "s3-media-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -540,7 +540,9 @@
     "timeWeek": 379,
     "timeMonth": 411,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "Mastodon Crontab",
