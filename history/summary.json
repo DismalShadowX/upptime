@@ -38,7 +38,7 @@
     "status": "up",
     "uptime": "83.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.98%",
+    "uptimeWeek": "76.04%",
     "uptimeMonth": "83.30%",
     "uptimeYear": "83.30%",
     "time": 518,
@@ -529,19 +529,19 @@
     "url": "https://ams1.vultrobjects.com",
     "icon": "https://icons.duckduckgo.com/ip3/ams1.vultrobjects.com.ico",
     "slug": "s3-media-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 374,
-    "timeWeek": 387,
-    "timeMonth": 412,
+    "timeDay": 368,
+    "timeWeek": 384,
+    "timeMonth": 410,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-04-30": 0
+      "2024-04-30": 6
     }
   },
   {
