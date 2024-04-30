@@ -36,11 +36,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafe.everythingbagel.me.ico",
     "slug": "everything-cafe",
     "status": "up",
-    "uptime": "83.30%",
+    "uptime": "83.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.04%",
-    "uptimeMonth": "83.30%",
-    "uptimeYear": "83.30%",
+    "uptimeWeek": "76.61%",
+    "uptimeMonth": "83.34%",
+    "uptimeYear": "83.34%",
     "time": 518,
     "timeDay": 488,
     "timeWeek": 485,
@@ -529,11 +529,11 @@
     "url": "https://ams1.vultrobjects.com",
     "icon": "https://icons.duckduckgo.com/ip3/ams1.vultrobjects.com.ico",
     "slug": "s3-media-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 368,
@@ -541,7 +541,7 @@
     "timeMonth": 410,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-04-30": 6
+      "2024-04-30": 0
     }
   },
   {
