@@ -38,11 +38,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cafe.everythingbagel.me.ico",
     "slug": "everything-cafe",
     "status": "up",
-    "uptime": "85.64%",
+    "uptime": "85.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "85.64%",
-    "uptimeYear": "85.64%",
+    "uptimeMonth": "85.65%",
+    "uptimeYear": "85.65%",
     "time": 528,
     "timeDay": 596,
     "timeWeek": 577,
@@ -554,9 +554,9 @@
     "slug": "s3-media-storage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "87.84%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "88.35%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.92%",
     "time": 454,
     "timeDay": 422,
@@ -564,7 +564,7 @@
     "timeMonth": 529,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-05-03": 174,
+      "2024-05-03": 167,
       "2024-04-30": 66
     }
   },
@@ -573,10 +573,10 @@
     "url": "https://hc-ping.com/792e0467-b6c9-48f4-8d0a-c08664feac95",
     "icon": "https://icons.duckduckgo.com/ip3/hc-ping.com.ico",
     "slug": "mastodon-crontab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
@@ -584,16 +584,18 @@
     "timeWeek": 383,
     "timeMonth": 388,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-03": 1
+    }
   },
   {
     "name": "FediFetcher Crontab",
     "url": "https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303",
     "icon": "https://icons.duckduckgo.com/ip3/hc-ping.com.ico",
     "slug": "fedi-fetcher-crontab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -602,6 +604,8 @@
     "timeWeek": 118,
     "timeMonth": 117,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   }
 ]
