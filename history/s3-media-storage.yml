@@ -1,7 +1,7 @@
 url: https://ams1.vultrobjects.com
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2024-05-03T10:44:01.887Z
+status: down
+code: 502
+responseTime: 489
+lastUpdated: 2024-05-03T10:49:45.215Z
 startTime: 2023-10-03T23:45:23.573Z
 generator: Upptime <https://github.com/upptime/upptime>
