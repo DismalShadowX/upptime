@@ -502,7 +502,7 @@
     "status": "up",
     "uptime": "98.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.38%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "98.24%",
     "time": 129,
@@ -535,19 +535,19 @@
     "url": "https://wiki.everythingbagel.me/home",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.everythingbagel.me.ico",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 3961,
-    "timeWeek": 2339,
-    "timeMonth": 988,
+    "timeDay": 3545,
+    "timeWeek": 2198,
+    "timeMonth": 968,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 7
     }
   },
   {
