@@ -62,6 +62,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
+  favicon: https://everythingbagel.me/images/logo.png
   robotsText: |
     # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
 
