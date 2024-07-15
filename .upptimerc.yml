@@ -36,14 +36,10 @@ sites:
     url: https://everythingbagel.social/api/v1/streaming/health    
   - name: Background queues
     url: https://everythingbagel.social/sidekiq
-  - name: Wiki
-    url: https://wiki.everythingbagel.me/home
+  - name: Helpdesk
+    url: https://test.everythingbagel.me
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
-  - name: Mastodon Crontab
-    url: https://hc-ping.com/792e0467-b6c9-48f4-8d0a-c08664feac95
-  - name: FediFetcher Crontab
-    url: https://hc-ping.com/a14a7782-78ed-4396-b68c-ac507e95b303
 
     maxResponseTime: 5000
     expectedStatusCodes:
