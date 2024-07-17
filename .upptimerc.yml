@@ -20,14 +20,10 @@ sites:
     url: https://blog.everythingbagel.me
   - name: Everything Press
     url: https://press.everythingbagel.me
-  - name: Everything Pixel
-    url: https://pixel.everythingbagel.me
   - name: Pixelfed Health
     url: https://pixel.everythingbagel.me/api/service/health-check
   - name: Everything Events
-    url: https://events.everythingbagel.me
-  - name: Everything Bagel (Mastodon instance)
-    url: https://everythingbagel.social     
+    url: https://events.everythingbagel.me 
   - name: Elk - Alternative Mastodon front-end
     url: https://elk.everythingbagel.social
   - name: Phanpy - Alternative Mastodon front-end
