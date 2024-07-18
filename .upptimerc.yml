@@ -26,10 +26,10 @@ sites:
     url: https://events.everythingbagel.me
   - name: Helpdesk
     url: https://test.everythingbagel.me
-    - name: Dev Web
+  - name: Dev Web
     url: https://dev.everythingbagel.me
   - name: In Light & In Shadow
-    url: https://scribe.everythingbagel.me  
+    url: "https://scribe.everythingbagel.me"
   - name: Elk - Alternative Mastodon front-end
     url: https://elk.everythingbagel.social
   - name: Phanpy - Alternative Mastodon front-end
