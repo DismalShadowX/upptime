@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 user-agent: DismalShadowX
 
 sites:
-  - name: Home Web (Everything Bagel)
+  - name: Home Web
     url: https://everythingbagel.me
   - name: Everything Cafe
     url: https://cafe.everythingbagel.me
