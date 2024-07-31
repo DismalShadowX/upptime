@@ -6,8 +6,8 @@ user-agent: DismalShadowX
 sites:
   - name: Home Web
     url: https://everythingbagel.me
-  - name: Everything Cafe
-    url: https://cafe.everythingbagel.me
+  - name: Everything Hub
+    url: https://hub.everythingbagel.me
   - name: Everything Cloud
     url: https://cloud.everythingbagel.me
   - name: Everything Video
