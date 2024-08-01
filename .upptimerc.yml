@@ -40,6 +40,10 @@ sites:
     url: https://everythingbagel.social/sidekiq
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
+  - name: Cloud
+    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+  - name: Cloud
+    url: https://cloud.everythingbagel.me/ocs/v2.php/apps/serverinfo/api/v1/info?format=json    
 
     maxResponseTime: 5000
     expectedStatusCodes:
