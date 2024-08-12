@@ -25,7 +25,7 @@ sites:
   - name: Everything Events
     url: https://events.everythingbagel.me
   - name: Helpdesk
-    url: https://test.everythingbagel.me    
+    url: https://support.everythingbagel.me    
   - name: Dev Web
     url: https://dev.everythingbagel.me
   - name: In Light & In Shadow
@@ -35,7 +35,9 @@ sites:
   - name: Phanpy - Alternative Mastodon front-end
     url: https://phanpy.everythingbagel.social    
   - name: Mastodon Streaming API
-    url: https://everythingbagel.social/api/v1/streaming/health    
+    url: https://everythingbagel.social/api/v1/streaming/health
+  - name: The Void 
+    url: https://test.everythingbagel.me 
   - name: Background queues
     url: https://everythingbagel.social/sidekiq
   - name: S3 (Media Storage)
