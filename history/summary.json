@@ -144,7 +144,7 @@
     "slug": "library-of-infinity",
     "status": "down",
     "uptime": "96.93%",
-    "uptimeDay": "87.94%",
+    "uptimeDay": "87.91%",
     "uptimeWeek": "78.32%",
     "uptimeMonth": "91.40%",
     "uptimeYear": "96.93%",
@@ -552,18 +552,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.everythingbagel.me.ico",
     "slug": "the-void",
     "status": "down",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-12": 0
+      "2024-08-12": 1
     }
   },
   {
