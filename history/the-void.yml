@@ -1,7 +1,7 @@
 url: https://test.everythingbagel.me
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2024-08-17T14:27:43.622Z
+status: down
+code: 502
+responseTime: 125
+lastUpdated: 2024-08-17T14:33:44.061Z
 startTime: 2024-08-12T07:17:41.997Z
 generator: Upptime <https://github.com/upptime/upptime>
