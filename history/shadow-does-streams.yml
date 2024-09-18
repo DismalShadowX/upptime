@@ -1,7 +1,7 @@
 url: https://stream.everythingbagel.me
-status: up
-code: 200
-responseTime: 284
-lastUpdated: 2024-09-17T23:04:20.448Z
+status: down
+code: 502
+responseTime: 290
+lastUpdated: 2024-09-18T14:53:22.878Z
 startTime: 2023-10-03T23:45:21.643Z
 generator: Upptime <https://github.com/upptime/upptime>
