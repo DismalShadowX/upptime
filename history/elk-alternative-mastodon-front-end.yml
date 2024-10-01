@@ -1,7 +1,7 @@
 url: https://elk.everythingbagel.social
-status: up
-code: 200
-responseTime: 266
-lastUpdated: 2024-09-30T23:03:55.213Z
+status: down
+code: 502
+responseTime: 340
+lastUpdated: 2024-10-01T02:42:19.598Z
 startTime: 2023-10-23T04:34:59.416Z
 generator: Upptime <https://github.com/upptime/upptime>
