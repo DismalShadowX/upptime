@@ -1,7 +1,7 @@
 url: https://cloud.everythingbagel.me
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2024-10-02T23:03:31.776Z
+status: down
+code: 500
+responseTime: 684
+lastUpdated: 2024-10-03T07:58:13.838Z
 startTime: 2023-10-03T23:27:09.956Z
 generator: Upptime <https://github.com/upptime/upptime>
