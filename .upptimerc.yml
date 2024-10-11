@@ -45,7 +45,7 @@ sites:
     url: https://ams1.vultrobjects.com
     
   # In Development Sites
-  - name: The Void
+  - name: "🟡 In Development:The Void"
     url: https://test.everythingbagel.me
 
     maxResponseTime: 5000
@@ -172,6 +172,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
+  allSystemsOperational: Everything is in the paws of the purrfect system!
   status: "Status"
   history: "History"
   responseTime: "Response Time"
@@ -184,7 +185,12 @@ i18n:
   uptimeYear: "1-year uptime"
   liveStatus: "Live Status"
   liveStatusHtmlComment: "<!--live status-->"
-  
+  activeProjectsTitle: "Active Projects"
+  inDevelopmentTitle: "In Development"
+  sideProjectsTitle: "Side Projects"
+  overallUptimeTitle: "Overall uptime for $CATEGORY: $UPTIME"
+  averageResponseTime: "Average response time for $CATEGORY: $TIMEms"
+
 workflowSchedule:
     graphs: "0 0 * * *"
     responseTime: "0 23 * * *"
