@@ -3,6 +3,9 @@ owner: DismalShadowX # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 user-agent: DismalShadowX
 
+assignees: # Users to assign downtime issues (optional)
+  - DismalShadowX
+
 sites:
   - name: Home Web
     url: https://everythingbagel.me
@@ -36,20 +39,20 @@ sites:
     url: https://phanpy.everythingbagel.social    
   - name: Mastodon Streaming API
     url: https://everythingbagel.social/api/v1/streaming/health
-  - name: The Void 
-    url: https://test.everythingbagel.me 
   - name: Background queues
     url: https://everythingbagel.social/sidekiq
   - name: S3 (Media Storage)
     url: https://ams1.vultrobjects.com
+    
+  # In Development Sites
+  - name: The Void
+    url: https://test.everythingbagel.me
 
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 201
       - 404
-    assignees: # Users to assign downtime issues (optional)
-      - DismalShadowX
     commitMessages:
       readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
       summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
