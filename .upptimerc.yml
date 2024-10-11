@@ -45,7 +45,7 @@ sites:
     url: https://ams1.vultrobjects.com
     
   # In Development Sites
-  - name: "🟡 In Development:The Void"
+  - name: In Development:The Void
     url: https://test.everythingbagel.me
 
     maxResponseTime: 5000
@@ -178,18 +178,20 @@ i18n:
   responseTime: "Response Time"
   responseTimeGraphAlt: "Response time graph"
   ms: "ms"
+  loading: Loading
+  navGitHub: GitHub
   uptime: "All-time uptime"
   uptimeDay: "24-hour uptime"
   uptimeWeek: "7-day uptime"
   uptimeMonth: "30-day uptime"
   uptimeYear: "1-year uptime"
-  liveStatus: "Live Status"
+  liveStatus: "Current Purrformance"
   liveStatusHtmlComment: "<!--live status-->"
-  activeProjectsTitle: "Active Projects"
-  inDevelopmentTitle: "In Development"
-  sideProjectsTitle: "Side Projects"
-  overallUptimeTitle: "Overall uptime for $CATEGORY: $UPTIME"
-  averageResponseTime: "Average response time for $CATEGORY: $TIMEms"
+  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTimeTitle: Average response
+  pastIncidents: Previous Cat-astrophes
+  pastScheduledMaintenance: Past Feline Fixes
+  scheduledMaintenance: Future Purrformance Checks
 
 workflowSchedule:
     graphs: "0 0 * * *"
