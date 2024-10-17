@@ -1,7 +1,7 @@
 url: https://scribe.everythingbagel.me
-status: up
-code: 200
-responseTime: 198
-lastUpdated: 2024-10-16T23:03:41.781Z
+status: down
+code: 500
+responseTime: 340
+lastUpdated: 2024-10-17T17:19:25.195Z
 startTime: 2024-07-18T16:18:52.461Z
 generator: Upptime <https://github.com/upptime/upptime>
