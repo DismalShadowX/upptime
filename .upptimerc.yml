@@ -172,6 +172,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
+  activeIncidents: Ongoing Cat-astrophes
   allSystemsOperational: Everything is in the paws of the purrfect system!
   status: "Status"
   history: "History"
