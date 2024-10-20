@@ -9,46 +9,115 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Home Web
     url: https://everythingbagel.me
-  - name: Everything Hub
-    url: https://hub.everythingbagel.me
-  - name: Everything Cloud
-    url: https://cloud.everythingbagel.me
-  - name: Everything Video
-    url: https://video.everythingbagel.me
-  - name: Library of Infinity
-    url: https://book.everythingbagel.me
-  - name: Shadow Does Streams
-    url: https://stream.everythingbagel.me
-  - name: Nathan's Ramblings
-    url: https://blog.everythingbagel.me
-  - name: Everything Press
-    url: https://press.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Shadow's Blogosphere
+    url: https://blog.everythingbagel.me/wp-json/wp/v2/status
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Mastodon Health
+    url: https://everythingbagel.social/api/v1/streaming/health
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
   - name: Pixelfed Health
     url: https://pixel.everythingbagel.me/api/service/health-check
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Everything Hub
+    url: https://hub.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Everything Video
+    url: https://video.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Shadow Does Streams
+    url: https://stream.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Everything Press
+    url: https://press.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
   - name: Everything Events
     url: https://events.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Elk
+    url: https://elk.everythingbagel.social
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Phanpy
+    url: https://phanpy.everythingbagel.social
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: Everything Cloud
+    url: https://cloud.everythingbagel.me/status.php
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: In Light & In Shadow
+    url: https://scribe.everythingbagel.me/ghost/api/v3/admin
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000    
+
+  - name: Library of Infinity
+    url: https://book.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
   - name: Helpdesk
-    url: https://support.everythingbagel.me    
+    url: https://support.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000    
+
+  - name: Background queues
+    url: https://everythingbagel.social/sidekiq/stats
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  - name: S3 Media Storage
+    url: https://ams1.vultrobjects.com
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
+
+  # In Development Sites
   - name: Dev Web
     url: https://dev.everythingbagel.me
-  - name: In Light & In Shadow
-    url: "https://scribe.everythingbagel.me"
-  - name: Elk - Alternative Mastodon front-end
-    url: https://elk.everythingbagel.social
-  - name: Phanpy - Alternative Mastodon front-end
-    url: https://phanpy.everythingbagel.social    
-  - name: Mastodon Streaming API
-    url: https://everythingbagel.social/api/v1/streaming/health
-  - name: Background queues
-    url: https://everythingbagel.social/sidekiq
-  - name: S3 (Media Storage)
-    url: https://ams1.vultrobjects.com
-    
-  # In Development Sites
-  - name: In Development:The Void
-    url: https://test.everythingbagel.me
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000
 
-    maxResponseTime: 5000
+  - name: The Void
+    url: https://test.everythingbagel.me
     expectedStatusCodes:
       - 200
       - 201
@@ -57,8 +126,9 @@ sites:
       readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
       summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
       statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
-      graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"  
-      
+      graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+    maxResponseTime: 5000
+   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -172,27 +242,67 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
-  activeIncidents: Ongoing Cat-astrophes
-  allSystemsOperational: Everything is in the paws of the purrfect system!
-  status: "Status"
-  history: "History"
-  responseTime: "Response Time"
-  responseTimeGraphAlt: "Response time graph"
-  ms: "ms"
-  loading: Loading
-  navGitHub: GitHub
-  uptime: "All-time uptime"
-  uptimeDay: "24-hour uptime"
-  uptimeWeek: "7-day uptime"
-  uptimeMonth: "30-day uptime"
-  uptimeYear: "1-year uptime"
-  liveStatus: "Current Purrformance"
-  liveStatusHtmlComment: "<!--live status-->"
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  pastIncidents: Previous Cat-astrophes
-  pastScheduledMaintenance: Past Feline Fixes
-  scheduledMaintenance: Future Purrformance Checks
+  activeIncidents: "Paw-sitive Updates: Active Incidents"
+  allSystemsOperational: "All systems are running like a well-oiled machine!"
+  incidentReport: "Incident #$NUMBER Report - Let's Fix This Together!"
+  activeIncidentSummary: "Opened at $DATE. 🐾 Join the conversation: $POSTS posts"
+  incidentTitle: "Incident $NUMBER: Dive into the Details!"
+  incidentDetails: "Detailed Overview of the Incident"
+  incidentFixed: "All fixed up! 🎉"
+  incidentOngoing: "Still in progress, hang tight! ⏳"
+  incidentOpenedAt: "Incident opened at"
+  incidentClosedAt: "Closed at"
+  incidentViewOnGitHub: "🖥️ View and Subscribe on GitHub"
+  incidentCommentSummary: "Commented at $DATE by $AUTHOR"
+  incidentBack: "← Back to All Pawsitive Updates"
+  pastIncidents: "Past Paw-sitive Incidents"
+  pastIncidentsResolved: "Resolved in $MINUTES minutes! 🎊 ($POSTS posts)"
+  liveStatus: "🐾 Live Status Check!"
+  overallUptime: "Overall Uptime: $UPTIME (No paws left behind!)"
+  overallUptimeTitle: "Overall Uptime Overview"
+  averageResponseTime: "Average Response Time: $TIMEms (Quick as a cat!)"
+  averageResponseTimeTitle: "Average Response Time Insights"
+  sevenDayResponseTime: "7-Day Response Time Report"
+  responseTimeMs: "Response Time (ms) - How fast are we?"
+  up: "Up and Running! 🚀"
+  down: "Down for Repairs. We'll be back soon!"
+  degraded: "Degraded Performance. We’re on it!"
+  ms: "milliseconds"
+  loading: "🐾 Loading... Hang tight!"
+  navGitHub: "GitHub Repository"
+  footer: "This page is [open source]($REPO) and powered by [Upptime](https://upptime.js.org). Keep an eye on our uptime! 👀"
+  rateLimitExceededTitle: "Whoa, Too Many Requests!"
+  rateLimitExceededIntro: "You've hit the request limit for the hour. Patience is a virtue!"
+  rateLimitExceededWhatDoesErrorMean: "What does this mean?"
+  rateLimitExceededErrorMeaning: "This website uses the GitHub API to fetch real-time status. You’ve hit the default limit of 60 requests/hour."
+  rateLimitExceededErrorHowCanFix: "How can I solve this?"
+  rateLimitExceededErrorFix: "Wait for the limit to reset or add a GitHub Personal Access Token for extra requests!"
+  rateLimitExceededGeneratePAT: "Here's how to generate a Personal Access Token"
+  rateLimitExceededHasSet: "You've already got a personal access token set!"
+  rateLimitExceededRemoveToken: "Remove token if necessary"
+  rateLimitExceededGitHubPAT: "Your GitHub Personal Access Token"
+  rateLimitExceededCopyPastePAT: "Copy & Paste Your Token Here"
+  rateLimitExceededSaveToken: "Save Token for Future Requests"
+  errorTitle: "Oops! An Error Occurred 🐾"
+  errorIntro: "We hit a snag while fetching the latest status."
+  errorText: "Please try again in a few moments."
+  errorHome: "Return to Homepage"
+  pastScheduledMaintenance: "Past Scheduled Maintenance 🛠️"
+  scheduledMaintenance: "Scheduled Maintenance Ahead"
+  scheduledMaintenanceSummaryStarted: "Started at $DATE for $DURATION minutes. Stay tuned!"
+  scheduledMaintenanceSummaryStarts: "Starts at $DATE for $DURATION minutes. Prepare for downtime!"
+  startedAt: "Started at"
+  startsAt: "Starts at"
+  duration: "Duration"
+  durationMin: "$DURATION minutes (We’ll be back before you know it!)"
+  incidentCompleted: "Incident Completed Successfully! 🎉"
+  incidentScheduled: "Incident Scheduled: Mark Your Calendars!"
+  duration24H: "24 Hours"
+  duration7D: "7 Days"
+  duration30D: "30 Days"
+  duration1Y: "1 Year"
+  durationAll: "All Time"
+  locale: "en-US"
 
 workflowSchedule:
     graphs: "0 0 * * *"
