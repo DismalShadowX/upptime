@@ -135,11 +135,10 @@ status-website:
   cname: status.everythingbagel.me
   # favicon: https://everythingbagel.me/images/logo.png
   robotsText: |
-  # For the complete list of user agents, visit https://status.everythingbagel.me/robots.txt
+    # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
     User-agent: *
     Disallow:
-
-
+    
   #theme: night #dark, light, night, ocean
   themeUrl: https://everythingbagel.me/css/dark.css
   apiBaseUrl: https://api.github.com
