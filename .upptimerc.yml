@@ -14,7 +14,7 @@ sites:
     maxResponseTime: 3000
 
   - name: Shadow's Blogosphere
-    url: https://blog.everythingbagel.me/wp-json/wp/v2/status
+    url: https://blog.everythingbagel.me
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
