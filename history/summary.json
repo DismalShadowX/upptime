@@ -4,9 +4,9 @@
     "url": "https://everythingbagel.me",
     "icon": "https://icons.duckduckgo.com/ip3/everythingbagel.me.ico",
     "slug": "home-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 350,
     "timeMonth": 338,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-20": 0
+    }
   },
   {
     "name": "Everything Hub",
@@ -276,7 +278,7 @@
     "slug": "everything-press",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "17.97%",
+    "uptimeDay": "19.63%",
     "uptimeWeek": "69.69%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "98.29%",
@@ -406,7 +408,7 @@
     "slug": "helpdesk",
     "status": "up",
     "uptime": "94.99%",
-    "uptimeDay": "17.97%",
+    "uptimeDay": "19.64%",
     "uptimeWeek": "69.69%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "94.99%",
@@ -458,7 +460,7 @@
     "slug": "in-light-and-in-shadow",
     "status": "up",
     "uptime": "96.07%",
-    "uptimeDay": "17.97%",
+    "uptimeDay": "19.64%",
     "uptimeWeek": "69.69%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.07%",
@@ -629,18 +631,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.everythingbagel.me.ico",
     "slug": "in-development-the-void",
     "status": "down",
-    "uptime": "91.79%",
-    "uptimeDay": "27.38%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "91.79%",
+    "uptime": "91.62%",
+    "uptimeDay": "25.72%",
+    "uptimeWeek": "89.39%",
+    "uptimeMonth": "91.62%",
+    "uptimeYear": "91.62%",
     "time": 258,
     "timeDay": 245,
     "timeWeek": 229,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2024-10-20": 1,
+      "2024-10-20": 25,
       "2024-10-19": 1045
     }
   }
