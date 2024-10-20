@@ -136,6 +136,9 @@ status-website:
   # favicon: https://everythingbagel.me/images/logo.png
   robotsText: |
   # For the complete list of user agents, visit https://status.everythingbagel.me/robots.txt
+    User-agent: *
+    Disallow:
+
 
   #theme: night #dark, light, night, ocean
   themeUrl: https://everythingbagel.me/css/dark.css
