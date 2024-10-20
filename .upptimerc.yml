@@ -134,6 +134,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.everythingbagel.me
   # favicon: https://everythingbagel.me/images/logo.png
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   robotsText: |
     # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
     # For the complete list of user agents, visit https://status.everythingbagel.me/robots.txt
@@ -219,7 +224,10 @@ status-website:
 i18n:
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
   activeIncidents: "Paw-sitive Updates: Active Incidents"
-  allSystemsOperational: "Everything is in the paws of the purrfect system!"
+  allSystemsOperational: "🟢 Everything is in the paws of the purrfect system!"
+  degradedPerformance: "🟡 Degraded Purrformance"
+  completeOutage: "🔴 Complete outage"
+  partialOutage: "🟠 Partial outage"
   incidentTitle: "Incident $NUMBER: Dive into the Details!"
   incidentDetails: "Detailed Overview of the Incident"
   incidentFixed: "All fixed up! 🎉"
@@ -235,10 +243,22 @@ i18n:
   overallUptimeTitle: "Overall Uptime Overview"
   averageResponseTimeTitle: "Average Response Time Insights"
   sevenDayResponseTime: "7-Day Response Time Report"
+  history: "History"
+  responseTime: "We fast!"
   responseTimeMs: "Response Time (ms) - How fast are we?"
-  up: "🟢 Up and Running! 🚀"
+  responseTimeDay: "24-hour response time"
+  responseTimeWeek: "7-day response time"
+  responseTimeMonth: "30-day response time"
+  responseTimeYear: "1-year response time"
+  liveStatusHtmlComment: "<!--live status-->"
+  uptime: "All-time uptime"
+  uptimeDay: "24-hour uptime"
+  uptimeWeek: "7-day uptime"
+  uptimeMonth: "30-day uptime"
+  uptimeYear: "1-year uptime"
+  up: "Up and Running! 🚀"
   down: "⚫ Consumed by the Void! We'll be back soon!"
-  degraded: "🟡 Degraded Performance. We’re on it!"
+  degraded: "Degraded Performance. We’re on it!"
   loading: "🐾 Loading... Hang tight!"
   rateLimitExceededIntro: "You've hit the request limit for the hour. Patience is a virtue!"
   rateLimitExceededWhatDoesErrorMean: "What does this mean?"
