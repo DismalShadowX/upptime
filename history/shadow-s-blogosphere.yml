@@ -1,7 +1,7 @@
-url: https://blog.everythingbagel.me/wp-json/wp/v2/status
-status: down
-code: 404
-responseTime: 290
-lastUpdated: 2024-10-20T04:22:51.408Z
+url: https://blog.everythingbagel.me
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2024-10-20T04:24:07.754Z
 startTime: 2024-10-20T03:22:08.920Z
 generator: Upptime <https://github.com/upptime/upptime>
