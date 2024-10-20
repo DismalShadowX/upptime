@@ -222,12 +222,13 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
+  url: "Websites"
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
   activeIncidents: "Paw-sitive Updates: Active Incidents"
   allSystemsOperational: "🟢 Everything is in the paws of the purrfect system!"
   degradedPerformance: "🟡 Degraded Purrformance"
-  completeOutage: "🔴 Complete outage"
-  partialOutage: "🟠 Partial outage"
+  completeOutage: "🔴 Complete Cat-astrophes"
+  partialOutage: "🟠 Partial Cat-astrophes"
   incidentTitle: "Incident $NUMBER: Dive into the Details!"
   incidentDetails: "Detailed Overview of the Incident"
   incidentFixed: "All fixed up! 🎉"
@@ -244,7 +245,6 @@ i18n:
   averageResponseTimeTitle: "Average Response Time Insights"
   sevenDayResponseTime: "7-Day Response Time Report"
   history: "History"
-  responseTime: "We fast!"
   responseTimeMs: "Response Time (ms) - How fast are we?"
   responseTimeDay: "24-hour response time"
   responseTimeWeek: "7-day response time"
@@ -274,7 +274,7 @@ i18n:
   errorTitle: "Oops! An Error Occurred 🐾"
   errorIntro: "We hit a snag while fetching the latest status."
   errorText: "Please try again in a few moments."
-  errorHome: "Return to Homepage"
+  errorHome: "Return to Dust"
   pastScheduledMaintenance: "Past Feline Fixes 🛠️"
   scheduledMaintenance: "Future Purrformance Checks"
   scheduledMaintenanceSummaryStarted: "Started at $DATE for $DURATION minutes. Stay tuned!"
