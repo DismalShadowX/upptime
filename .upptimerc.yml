@@ -226,11 +226,11 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://everythingbagel.me/images/bagel-banner.png
   name: Everything Monitor
-  #introTitle: "**Everything Monitor** is open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/DismalShadowX/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "Website Status of the **Everything Bagel Realms**"
+  introMessage: Welcome to the endpoint monitor of live databases.
   navbar:
     - title: Status
-      href: \
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Home
