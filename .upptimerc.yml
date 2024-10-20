@@ -116,7 +116,7 @@ sites:
       - 200
     maxResponseTime: 3000
 
-  - name: The Void
+  - name: The Empty
     url: https://test.everythingbagel.me
     expectedStatusCodes:
       - 200
