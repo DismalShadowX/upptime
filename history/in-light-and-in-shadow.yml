@@ -1,7 +1,7 @@
-url: https://scribe.everythingbagel.me/ghost/api/v3/admin
-status: down
-code: 404
-responseTime: 286
-lastUpdated: 2024-10-22T23:04:06.987Z
+url: https://scribe.everythingbagel.me
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2024-10-23T18:24:09.419Z
 startTime: 2024-07-18T16:18:52.461Z
 generator: Upptime <https://github.com/upptime/upptime>
