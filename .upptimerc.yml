@@ -80,7 +80,7 @@ sites:
     maxResponseTime: 3000
 
   - name: In Light & In Shadow
-    url: https://scribe.everythingbagel.me/ghost/api/v3/admin
+    url: https://scribe.everythingbagel.me
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000    
