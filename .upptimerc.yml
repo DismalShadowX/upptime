@@ -239,7 +239,7 @@ i18n:
   incidentCommentSummary: "Commented at $DATE by $AUTHOR"
   incidentBack: "← Back to All Pawsitive Updates"
   pastIncidents: "Past Paw-sitive Cat-astrophes"
-  pastIncidentsResolved: "✅ Resolved in $MINUTES minutes! ($POSTS posts)"
+  pastIncidentsResolved: "Resolved in $MINUTES minutes! ($POSTS posts)"
   liveStatus: "🐾 Current Status Purrformance!"
   overallUptimeTitle: "Overall Uptime Overview"
   averageResponseTimeTitle: "Average Response Time Insights"
