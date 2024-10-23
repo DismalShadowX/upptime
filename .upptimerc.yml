@@ -250,7 +250,6 @@ i18n:
   responseTimeWeek: "7-day response time"
   responseTimeMonth: "30-day response time"
   responseTimeYear: "1-year response time"
-  liveStatusHtmlComment: "<!--live status-->"
   uptime: "All-time uptime"
   uptimeDay: "24-hour uptime"
   uptimeWeek: "7-day uptime"
