@@ -207,7 +207,7 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://everythingbagel.me/images/bagel-banner.png
   name: Everything Monitor
-  introTitle: "Website Status of the *Everything Bagel Realms*"
+  introTitle: "Website Status of the *Everything Bagel* Realms"
   introMessage: Welcome to the endpoint monitor of live databases.
   navbar:
     - title: Status
@@ -225,7 +225,7 @@ i18n:
   url: "Websites"
   footer: "Copyright © 2003-2024 Nathan Sparrow. All Rights Reserved.  \n**Everything Monitor** is a status page which uses **real-time** data from our [open source]($REPO), powered entirely by [GitHub](https://upptime.js.org/).  \nNo server required — just GitHub Actions, Issues, and Pages."
   activeIncidents: "Paw-sitive Updates: Active Incidents"
-  allSystemsOperational: "🟢 Everything is in the paws of the purrfect system!"
+  allSystemsOperational: "Everything is in the paws of the purrfect system!"
   degradedPerformance: "🟡 Degraded Purrformance"
   completeOutage: "🔴 Complete Cat-astrophes"
   partialOutage: "🟠 Partial Cat-astrophes"
