@@ -18,8 +18,14 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
+    
+  - name: Mastodon Web
+    url: https://everythingbagel.social/health
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 3000    
 
-  - name: Mastodon Health
+  - name: Mastodon Streaming API
     url: https://everythingbagel.social/api/v1/streaming/health
     expectedStatusCodes:
       - 200
@@ -55,7 +61,7 @@ sites:
       - 200
     maxResponseTime: 3000
 
-  - name: Everything Events
+  - name: Everything Event
     url: https://events.everythingbagel.me
     expectedStatusCodes:
       - 200
@@ -85,11 +91,11 @@ sites:
       - 200
     maxResponseTime: 3000    
 
-  - name: Library of Infinity
-    url: https://book.everythingbagel.me
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 3000
+#  - name: Library of Infinity
+#    url: https://book.everythingbagel.me
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 3000
 
   - name: Helpdesk
     url: https://support.everythingbagel.me
