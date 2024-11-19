@@ -1,7 +1,7 @@
 url: https://stream.everythingbagel.me
-status: up
+status: degraded
 code: 200
-responseTime: 357
-lastUpdated: 2024-11-19T04:19:40.213Z
+responseTime: 3198
+lastUpdated: 2024-11-19T07:24:03.286Z
 startTime: 2023-10-03T23:45:21.643Z
 generator: Upptime <https://github.com/upptime/upptime>
